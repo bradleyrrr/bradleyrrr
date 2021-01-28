@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Bradley Rey"
+title:		           "Bradley Rey's Personal Github Pages Site"
 description:	       ""
 author:              "Bradley Rey"
 
