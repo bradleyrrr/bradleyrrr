@@ -15,7 +15,7 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-# social:
+social:
 - {icon: 'twitter', link: 'https://twitter.com/bradley_rey'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
