@@ -11,7 +11,7 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Research', folder: 'pages', file: 'documentation.html'}
 - {name: 'Blog Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
