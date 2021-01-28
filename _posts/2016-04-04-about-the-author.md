@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 author: "Bradley Rey"
-categories: facts
+categories: about
 tags: [sample]
 image: cuba-4.jpg
 ---
