@@ -1,1 +1,1 @@
-Welcome to my personal site's repository. To view my site please click [here](http://bradleyrrr.github.io)
+Welcome to my personal github pages site repository. To view my site please click [here](http://bradleyrrr.github.io)
